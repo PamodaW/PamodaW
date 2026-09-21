@@ -40,6 +40,7 @@
 - Full stack across **Node.js, TypeScript, React, Angular, C#/.NET**
 - Built for **[Aware Recovery Care](https://www.renewhealthrecovery.com/careers/)**, **[RD Legal Funding LLC](https://www.legalfunding.com/)**, and **[Sigmund Software](https://www.sigmundsoftware.com/solutions/aura/)**
 - Higher National Diploma in Software Engineering — **NIBM Sri Lanka**
+- Currently building in **Cloud and AI**
 - Open to **remote Salesforce / full stack roles**
 
 ---
@@ -90,12 +91,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PamodaW&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamodaW&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PamodaW&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamodaW&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PamodaW&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=PamodaW&theme=github-dark-blue&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -103,7 +104,7 @@
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PamodaW&theme=github-compact&hide_border=true&area=true&area_color=0969da" width="95%" />
+  <img src="https://ghchart.rshah.org/0969da/PamodaW" width="95%" alt="PamodaW's GitHub contribution chart" />
 </p>
 
 ---
