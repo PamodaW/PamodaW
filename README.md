@@ -40,7 +40,6 @@
 - Full stack across **Node.js, TypeScript, React, Angular, C#/.NET**
 - Built for **[Aware Recovery Care](https://www.renewhealthrecovery.com/careers/)**, **[RD Legal Funding LLC](https://www.legalfunding.com/)**, and **[Sigmund Software](https://www.sigmundsoftware.com/solutions/aura/)**
 - Higher National Diploma in Software Engineering — **NIBM Sri Lanka**
-- Currently building in **Cloud and AI**
 - Open to **remote Salesforce / full stack roles**
 
 ---
