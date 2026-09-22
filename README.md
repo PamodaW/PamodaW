@@ -101,8 +101,8 @@ All my certifications and learning achievements live here:
   <img src="https://raw.githubusercontent.com/PamodaW/Cool-Dev-Assets-By-Pamo/main/Assets/images/Pamo%20Pack/Pamo-Memorizing.png" width="80" />
   <img src="https://raw.githubusercontent.com/PamodaW/Cool-Dev-Assets-By-Pamo/main/Assets/images/Pamo%20Pack/Pamo-Resting.png" width="80" />
   <img src="https://raw.githubusercontent.com/PamodaW/Cool-Dev-Assets-By-Pamo/main/Assets/images/Pamo%20Pack/Pamo-It-Works.png" width="80" />
-  <img src="https://raw.githubusercontent.com/PamodaW/Cool-Dev-Assets-By-Pamo/main/Assets/images/Pamo%20Pack/Pamo-LIH" width="80" />
-  <img src="https://raw.githubusercontent.com/PamodaW/Cool-Dev-Assets-By-Pamo/main/Assets/images/Pamo%20Pack/Pamo-Frustartion.png" width="80" />
+  <img src="https://raw.githubusercontent.com/PamodaW/Cool-Dev-Assets-By-Pamo/main/Assets/images/Pamo%20Pack/Pamo-LIH.png" width="80" />
+  <img src="https://raw.githubusercontent.com/PamodaW/Cool-Dev-Assets-By-Pamo/main/Assets/images/Pamo%20Pack/Pamo-Coding.png" width="80" />
 </p>
 
 <sub>Stickers from <a href="https://github.com/PamodaW/Cool-Dev-Assets-By-Pamo">Cool-Dev-Assets-By-Pamo</a></sub>
