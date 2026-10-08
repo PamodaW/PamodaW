@@ -27,8 +27,8 @@
   <a href="https://coddy.tech/user/Pamo">
     <img src="https://img.shields.io/badge/Coddy.tech-6C47FF?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://www.mindluster.com">
-    <img src="https://img.shields.io/badge/Mindluster-FF6B35?style=flat-square&logo=bookstack&logoColor=white" />
+  <a href="https://learn.microsoft.com/en-us/users/pamodawijesinghe-8662/">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
   </a>
 </p>
 
