@@ -37,7 +37,7 @@
 ## About Me
 
 - Salesforce specialist with **2.5+ years** in production orgs — healthcare and legal finance
-- Full stack across **Node.js, TypeScript, React, Angular, C#/.NET**
+- Full stack across **Node.js, TypeScript, React, Angular, C#/.NET , and SQL databases including PostgreSQL, MySQL, and SQL Server.**
 - Built for **[Aware Recovery Care](https://www.renewhealthrecovery.com/careers/)**, **[RD Legal Funding LLC](https://www.legalfunding.com/)**, and **[Sigmund Software](https://www.sigmundsoftware.com/solutions/aura/)**
 - Higher National Diploma in Software Engineering (Reading) — **NIBM Sri Lanka**
 - Open to **remote Salesforce / full stack roles**
