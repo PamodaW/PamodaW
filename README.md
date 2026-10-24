@@ -41,8 +41,20 @@
 - Built for **[Aware Recovery Care](https://www.renewhealthrecovery.com/careers/)**, **[RD Legal Funding LLC](https://www.legalfunding.com/)**, and **[Sigmund Software](https://www.sigmundsoftware.com/solutions/aura/)**
 - Higher National Diploma in Software Engineering (Reading) — **NIBM Sri Lanka**
 - Open to **remote Salesforce / full stack roles**
-
----
+<table align="center">
+  <tr>
+    <!-- <td>
+      <a href="https://github.com/PamodaW"><img src="https://github.com/PamodaW.png?size=96" width="64" height="64" alt="Pamoda Wijesinghe" /></a>
+    </td> -->
+    <td>
+      <b><a href="https://github.com/sponsors/PamodaW">Sponsor Pamoda Wijesinghe on GitHub Sponsors</a></b><br/>
+      <sub>Support PamodaW's open source work</sub>
+    </td>
+    <td>
+      <a href="https://github.com/sponsors/PamodaW"><img src="https://img.shields.io/badge/%E2%99%A5%20Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
