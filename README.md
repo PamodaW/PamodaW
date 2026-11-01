@@ -57,14 +57,6 @@
 
 ## Tech Stack
 
-**Salesforce**
-
-![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Flow Builder](https://img.shields.io/badge/Flow%20Builder-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Visualforce](https://img.shields.io/badge/Visualforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -95,6 +87,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+**Salesforce**
+
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Flow Builder](https://img.shields.io/badge/Flow%20Builder-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Visualforce](https://img.shields.io/badge/Visualforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
 ---
 
