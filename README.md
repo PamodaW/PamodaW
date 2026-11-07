@@ -39,7 +39,7 @@
 - Full stack across **Node.js, TypeScript, React, Angular, C#/.NET , and SQL databases including PostgreSQL, MySQL, and SQL Server.**
 - Built for **[Aware Recovery Care](https://www.renewhealthrecovery.com/careers/)**, **[RD Legal Funding LLC](https://www.legalfunding.com/)**, and **[Sigmund Software](https://www.sigmundsoftware.com/solutions/aura/)**
 - Diploma and Higher National Diploma in Software Engineering — **NIBM Sri Lanka**
-- Open to **Remote Salesforce / full stack roles**
+- Open to **Remote full stack / Salesforce  roles**
 <table align="center">
   <tr>
     <!-- <td>
