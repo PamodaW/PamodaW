@@ -46,7 +46,7 @@
       <a href="https://github.com/PamodaW"><img src="https://github.com/PamodaW.png?size=96" width="64" height="64" alt="Pamoda Wijesinghe" /></a>
     </td> -->
     <td>
-      <b><a href="https://github.com/sponsors/PamodaW">Sponsor Pamoda Wijesinghe on GitHub Sponsors</a></b><br/>
+      <b><a href="https://github.com/sponsors/PamodaW">Sponsor Pamoda on GitHub Sponsors</a></b><br/>
       <sub>Support PamodaW's open source work</sub>
     </td>
     <td>
